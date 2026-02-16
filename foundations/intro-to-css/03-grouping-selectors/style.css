@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.button, .button_two {/* Add CSS Styling */
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.button { /* Add CSS Styling */
+  background-color: #000000;
+  color: white;
+}
+.button_two { /* Add CSS Styling */
+  background-color: #ffea00;
+}
